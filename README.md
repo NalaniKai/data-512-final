@@ -1,2 +1,23 @@
-# data-512-final
-Final project for DATA 512 Human Centered Data Science
+# Covid19 Impact on K-12 Education
+This final project for DATA 512 Human Centered Data Science will focus on the impact Covid19 has had on K-12 education in the United States. 
+
+# Data Sources
+- Covid19 K-12 Education Data by MCH Strategic Data. Compiled from public federal, state, and local school districts information and media updates. Go to the [Main page](https://www.mchdata.com/covid19/schoolclosings), scroll down, make a free account, and press the "download list of districts" button. Select subscribe and sign up for free subscription to download the dataset. No credit card information is needed. 
+
+- Education Demographic and Geographic Estimates. National Center for Education Statistics. Institute of Education Sciences.   
+    - [Dataset: ACS 2014-2018 Profile](https://nces.ed.gov/programs/edge/TableViewer/acsProfile/2018)
+    - Geography: All Districts 
+    - Population: Relevant Children
+    - Tables:        
+        - CDP02.2 SCHOOL ENROLLMENT
+        - CDP02.11 COMPUTERS AND INTERNET USE
+        - CDP03.2 INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)
+        - CDP05.2 RACE     
+
+# Data Licensing
+- Covid19 K-12 Education Data by MCH Strategic Data. Compiled from public federal, state, and local school districts information and media updates. [MCH 2019 Standard Licensing Stipulations and Conditions Agreement](https://www.mchdata.com/about/terms-conditions)
+  
+- Education Demographic and Geographic Estimates. National Center for Education Statistics. Institute of Education Sciences. [Open Data Policy](https://digital.gov/open-data-policy-m-13-13/)    
+
+# Project Licensing
+[MIT License](https://github.com/NalaniKai/data-512-final/blob/main/LICENSE)
