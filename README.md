@@ -16,7 +16,7 @@ This final project for DATA 512 Human Centered Data Science will focus on the im
 
 - Centers for Disease Control and Prevention [United States COVID-19 Cases and Deaths by State over Time](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36/data). [United_States_COVID-19_Cases_and_Deaths_by_State_over_Time.csv](https://github.com/NalaniKai/data-512-final/blob/main/Data/United_States_COVID-19_Cases_and_Deaths_by_State_over_Time.csv)
 
-- United States Census Bureau [Population, Population Change, and Estimated Components of Population Change: April 1, 2010 to July 1, 2019 (NST-EST2019-alldata)](https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html#par_textimage]. [nst-est2019-alldata.csv](https://github.com/NalaniKai/data-512-final/blob/main/Data/nst-est2019-alldata.csv)
+- United States Census Bureau [Population, Population Change, and Estimated Components of Population Change: April 1, 2010 to July 1, 2019 (NST-EST2019-alldata)](https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html#par_textimage). [nst-est2019-alldata.csv](https://github.com/NalaniKai/data-512-final/blob/main/Data/nst-est2019-alldata.csv)
 
   
 # Data Licensing
