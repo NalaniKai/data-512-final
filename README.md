@@ -14,10 +14,17 @@ This final project for DATA 512 Human Centered Data Science will focus on the im
         - CDP03.2 INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS)
         - CDP05.2 RACE     
 
+- Centers for Disease Control and Prevention (United States COVID-19 Cases and Deaths by State over Time)[https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36/data]
+
+- United States Census Bureau (Population, Population Change, and Estimated Components of Population Change: April 1, 2010 to July 1, 2019 (NST-EST2019-alldata))[https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html#par_textimage]
+
+  
 # Data Licensing
 - Covid19 K-12 Education Data by MCH Strategic Data. Compiled from public federal, state, and local school districts information and media updates. [MCH 2019 Standard Licensing Stipulations and Conditions Agreement](https://www.mchdata.com/about/terms-conditions)
   
 - Education Demographic and Geographic Estimates. National Center for Education Statistics. Institute of Education Sciences. [Open Data Policy](https://digital.gov/open-data-policy-m-13-13/)    
+
+- Both the CDC US COVID-19 Cases and Deaths by State over Time and the US Census Population by State datasets have the same license. (Public Domain U.S. Government)[https://www.usa.gov/government-works]
 
 # Project Licensing
 [MIT License](https://github.com/NalaniKai/data-512-final/blob/main/LICENSE)
