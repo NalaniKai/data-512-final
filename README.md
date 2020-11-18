@@ -14,9 +14,10 @@ This final project for DATA 512 Human Centered Data Science will focus on the im
         - CDP03.2 INCOME AND BENEFITS (IN 2018 INFLATION-ADJUSTED DOLLARS) [CDP03.2_102_USSchoolDistrictAll_111234614792.txt](https://github.com/NalaniKai/data-512-final/blob/main/Data/CDP03.2_102_USSchoolDistrictAll_111234614792.txt)
         - CDP05.2 RACE [CDP05.2_102_USSchoolDistrictAll_11123448541.txt](https://github.com/NalaniKai/data-512-final/blob/main/Data/CDP05.2_102_USSchoolDistrictAll_11123448541.txt)
 
-- Centers for Disease Control and Prevention [United States COVID-19 Cases and Deaths by State over Time](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36/data). [United_States_COVID-19_Cases_and_Deaths_by_State_over_Time.csv](https://github.com/NalaniKai/data-512-final/blob/main/Data/United_States_COVID-19_Cases_and_Deaths_by_State_over_Time.csv)
 
-- United States Census Bureau [Population, Population Change, and Estimated Components of Population Change: April 1, 2010 to July 1, 2019 (NST-EST2019-alldata)](https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html#par_textimage). [nst-est2019-alldata.csv](https://github.com/NalaniKai/data-512-final/blob/main/Data/nst-est2019-alldata.csv)
+- United States Census Bureau [School Districts and Associated Counties](https://www.census.gov/programs-surveys/saipe/guidance-geographies/districts-counties.html). [sdlist-19.xls](__link___)
+
+- COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. [csse_covid_19_daily_reports_us](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports_us)
 
   
 # Data Licensing
@@ -24,7 +25,9 @@ This final project for DATA 512 Human Centered Data Science will focus on the im
   
 - Education Demographic and Geographic Estimates. National Center for Education Statistics. Institute of Education Sciences. [Open Data Policy](https://digital.gov/open-data-policy-m-13-13/)    
 
-- Both the CDC US COVID-19 Cases and Deaths by State over Time and the US Census Population by State datasets have the same license. [Public Domain U.S. Government](https://www.usa.gov/government-works)
+- United States Census Bureau. [Public Domain U.S. Government](https://www.usa.gov/government-works)
+
+- Johns Hopkins University Center for Systems Science and Engineering. [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ast)
 
 # Project Licensing
 [MIT License](https://github.com/NalaniKai/data-512-final/blob/main/LICENSE)
