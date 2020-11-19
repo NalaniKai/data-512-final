@@ -17,7 +17,7 @@ This final project for DATA 512 Human Centered Data Science will focus on the im
 
 - United States Census Bureau [School Districts and Associated Counties](https://www.census.gov/programs-surveys/saipe/guidance-geographies/districts-counties.html). [sdlist-19.xls](__link___)
 
-- COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. [csse_covid_19_daily_reports_us](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports_us)
+- COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. [csse_covid_19_time_series](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/))
 
   
 # Data Licensing
