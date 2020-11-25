@@ -1104,7 +1104,7 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,409540,890510,Young Public School District 5,Public,Young,AZ,46.0,08/24/2020,On Premises,Unknown,Unknown,Unknown,Unknown,Required for all staff,Required for all students,Yes,Yes,Never closed,Unknown,10/26/2020
 2020-2021,409570,890417,Yucca Elementary School District 13,Public,Yucca,AZ,35.0,08/03/2020,Hybrid,Unknown,Yes,Pending,Yes,Required for all staff,Required for all students,Unknown,Unknown,Unknown,Yes,10/23/2020
 2020-2021,400094,107522680,Aztec High School District Office,Public,Yuma,AZ,145.0,08/31/2020,Hybrid,No,Unknown,Unknown,Yes,Unknown,Not required,Unknown,Unknown,Unknown,Yes,10/26/2020
-2020-2021,400381,107536202,Carpe Diem Collegiate High School,Public,Yuma,AZ,216.0,08/17/2020,Online Only,No,Unknown,Yes,,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,10/02/2020
+2020-2021,400381,107536202,Carpe Diem Collegiate High School,Public,Yuma,AZ,216.0,08/17/2020,Online Only,No,Unknown,Yes,nan,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,10/02/2020
 2020-2021,402400,890522,Crane Elementary School District 13,Public,Yuma,AZ,6740.0,07/30/2020,Online Only,No,Yes,Unknown,Unknown,Pending,Pending,Pending,Pending,Pending,Pending,08/12/2020
 2020-2021,400268,93716952,Desert View Academy Charter Office,Public,Yuma,AZ,508.0,09/08/2020,Hybrid,Unknown,Unknown,Unknown,Yes,Required for all staff,Required for all students,Yes,Yes,Unknown,Yes,10/29/2020
 2020-2021,400282,107532440,Harvest Power Cmnty Development Group,Public,Yuma,AZ,1733.0,08/17/2020,Hybrid,Yes,Unknown,Yes,Yes,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,09/30/2020
@@ -1864,7 +1864,7 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,600094,107829934,Riverside County Office of Education Rop,Public,Riverside,CA,,08/05/2020,Online Only,Unknown,Unknown,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Closed indefinitely,Unknown,10/12/2020
 2020-2021,633150,890059,Riverside Unified School District,Public,Riverside,CA,44040.0,08/10/2020,Online Only,No,Unknown,Yes,Unknown,Required for all staff,Unknown,Unknown,Unknown,Unknown,Yes,10/30/2020
 2020-2021,642900,889324,Winship-Robbins Elementary School Dist,Public,Robbins,CA,164.0,08/19/2020,Unknown,Unknown,Unknown,Yes,Yes,Required for all staff,Required for middle/high school students only,Yes,Yes,Never closed,Unknown,10/28/2020
-2020-2021,-1,91848742,Rocklin Academy Family of Schools,Public,Rocklin,CA,,08/12/2020,Online Only,No,Pending,Pending,,Pending,Pending,Pending,Pending,Pending,Pending,08/28/2020
+2020-2021,-1,91848742,Rocklin Academy Family of Schools,Public,Rocklin,CA,,08/12/2020,Online Only,No,Pending,Pending,nan,Pending,Pending,Pending,Pending,Pending,Pending,08/28/2020
 2020-2021,600013,889379,Rocklin Unified School District,Public,Rocklin,CA,12795.0,08/12/2020,Hybrid,Yes,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Yes,10/26/2020
 2020-2021,602473,94985441,Western Sierra Collegiate Academy Dist,Public,Rocklin,CA,228.0,08/14/2020,Hybrid,Unknown,Unknown,Unknown,Yes,Required for all staff,Required for all students,Unknown,Unknown,Unknown,Yes,10/28/2020
 2020-2021,618990,889705,John Swett Unified School District,Public,Rodeo,CA,1762.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
@@ -1974,7 +1974,7 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,621930,890220,Little Lake City School District,Public,Santa Fe Springs,CA,4606.0,08/19/2020,Online Only,No,Unknown,Yes,No,Not required,Required for all students,Unknown,Unknown,Unknown,No,10/02/2020
 2020-2021,605280,889855,Blochman Union School District,Public,Santa Maria,CA,210.0,08/17/2020,Online Only,Unknown,Yes,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,10/27/2020
 2020-2021,-1,95075535,Family Partnership Charter Office,Public,Santa Maria,CA,390.0,08/18/2020,On Premises,Yes,Unknown,Yes,Yes,Not required,Not required,Yes,No,Never closed,Unknown,10/07/2020
-2020-2021,-1,102369446,Olive Grove Charter School District Ofc,Public,Santa Maria,CA,,09/13/2020,Online Only,Pending,Pending,Pending,,Pending,Pending,Pending,Pending,Pending,No,10/01/2020
+2020-2021,-1,102369446,Olive Grove Charter School District Ofc,Public,Santa Maria,CA,,09/13/2020,Online Only,Pending,Pending,Pending,nan,Pending,Pending,Pending,Pending,Pending,No,10/01/2020
 2020-2021,635670,889856,Santa Maria Joint Union High School Dist,Public,Santa Maria,CA,7986.0,08/17/2020,Online Only,Unknown,Yes,Yes,Yes,Required for all staff,Unknown,Unknown,Unknown,Unknown,Unknown,10/29/2020
 2020-2021,605580,889854,Santa Maria-Bonita School District,Public,Santa Maria,CA,17471.0,08/13/2020,Online Only,No,Pending,Pending,Pending,Required for all staff,Required for all students,Unknown,Unknown,Unknown,Unknown,10/29/2020
 2020-2021,635700,890235,Santa Monica-Malibu Unified School Dist,Public,Santa Monica,CA,12151.0,08/24/2020,Online Only,Unknown,Pending,Pending,Pending,Required for all staff,Required for all students,Unknown,Unknown,Pending,Unknown,10/28/2020
@@ -2450,7 +2450,7 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,901860,902832,Hamden Public School District,Public,Hamden,CT,5273.0,09/15/2020,Hybrid,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Yes,10/19/2020
 2020-2021,901890,6962835,Hampton Elementary School District,Public,Hampton,CT,101.0,09/02/2020,On Premises,No,Unknown,Yes,Unknown,Required for all staff,Required for all students,Yes,Yes,Unknown,Yes,10/21/2020
 2020-2021,900212,108022732,Achievement First Hartford Academy Dist,Public,Hartford,CT,1313.0,09/01/2020,Hybrid,No,Unknown,Yes,Yes,Required for all staff,Required for all students,Yes,Yes,Closed 1-5 days,Yes,10/08/2020
-2020-2021,900700,902911,Capitol Region Education Council,Public,Hartford,CT,8222.0,08/26/2020,Hybrid,Yes,Pending,Pending,,Pending,Pending,Pending,Pending,Pending,Unknown,10/27/2020
+2020-2021,900700,902911,Capitol Region Education Council,Public,Hartford,CT,8222.0,08/26/2020,Hybrid,Yes,Pending,Pending,nan,Pending,Pending,Pending,Pending,Pending,Unknown,10/27/2020
 2020-2021,900002,35288080,Connecticut Technical High School System,Public,Hartford,CT,11205.0,09/02/2020,Hybrid,Unknown,Unknown,Yes,Unknown,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,10/28/2020
 2020-2021,901920,902910,Hartford Public Schools,Public,Hartford,CT,21931.0,09/09/2020,On Premises,Unknown,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Yes,10/26/2020
 2020-2021,-1,107150588,Jumoke Academy District,Public,Hartford,CT,705.0,09/03/2020,Hybrid,Yes,Yes,Yes,Yes,Required for all staff,Required for all students,Yes,Yes,Closed indefinitely,Yes,10/19/2020
@@ -6641,7 +6641,7 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,2600265,93740541,Grand Traverse Academy Charter Office,Public,Traverse City,MI,1300.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,-1,105878950,Old Mission Peninsula School Charter Ofc,Public,Traverse City,MI,165.0,09/08/2020,On Premises,Yes,Unknown,No,Yes,Unknown,Required for high school students only,Unknown,Unknown,Never closed,Unknown,10/28/2020
 2020-2021,2600983,93740550,The Greensprie School Charter Office,Public,Traverse City,MI,130.0,09/08/2020,On Premises,Unknown,Yes,Unknown,Yes,Required for all staff,Required for all students,Unknown,Yes,Never closed,Yes,10/22/2020
-2020-2021,2680440,897751,Traverse Bay Intermediate School Dist,Public,Traverse City,MI,1161.0,09/08/2020,Hybrid,Unknown,Pending,Pending,,Required for all staff,Required for all students,Yes,Yes,Pending,Yes,10/21/2020
+2020-2021,2680440,897751,Traverse Bay Intermediate School Dist,Public,Traverse City,MI,1161.0,09/08/2020,Hybrid,Unknown,Pending,Pending,nan,Required for all staff,Required for all students,Yes,Yes,Pending,Yes,10/21/2020
 2020-2021,2633870,897750,Traverse City Area Public Schools,Public,Traverse City,MI,10240.0,09/21/2020,Hybrid,No,Unknown,Yes,Yes,Required for all staff,Required for all students,Unknown,Yes,Unknown,Yes,10/23/2020
 2020-2021,2600078,93740533,Woodland School Charter Office,Public,Traverse City,MI,217.0,09/08/2020,Hybrid,No,Unknown,Unknown,Unknown,Required for all staff,Required for all students,Yes,Yes,Unknown,Yes,10/26/2020
 2020-2021,2633900,898195,Trenton Public Schools,Public,Trenton,MI,2579.0,09/08/2020,Hybrid,Yes,Unknown,Yes,Yes,Required for all staff,Required for all students,Unknown,Yes,Never closed,Yes,10/26/2020
@@ -7036,7 +7036,7 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,2700370,96940934,Rochester Stem Academy Charter Office,Public,Rochester,MN,104.0,09/02/2020,Unknown,Unknown,Unknown,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Closed indefinitely,Unknown,10/29/2020
 2020-2021,2732070,896739,Rockford Area School District 883,Public,Rockford,MN,1707.0,09/08/2020,Hybrid,Yes,Unknown,Yes,Yes,Required for all staff,Required for all students,Unknown,Yes,Never closed,Yes,10/01/2020
 2020-2021,2732250,896417,Roseau School District 682,Public,Roseau,MN,1415.0,09/08/2020,Hybrid,Yes,Unknown,Yes,Yes,Required for all staff,Required for all students,Yes,Yes,Unknown,Yes,10/16/2020
-2020-2021,2700026,5185156,Intermediate School District 917,Public,Rosemount,MN,410.0,09/14/2020,Online Only,Unknown,Pending,Pending,,Required for all staff,Required for all students,Yes,Yes,Pending,Yes,10/21/2020
+2020-2021,2700026,5185156,Intermediate School District 917,Public,Rosemount,MN,410.0,09/14/2020,Online Only,Unknown,Pending,Pending,nan,Required for all staff,Required for all students,Yes,Yes,Pending,Yes,10/21/2020
 2020-2021,2732390,896780,Rosemount-Apple Valley-Eagan ISD 196,Public,Rosemount,MN,28646.0,09/14/2020,Hybrid,Yes,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Yes,10/27/2020
 2020-2021,2732430,896793,Roseville Area Schools 623,Public,Roseville,MN,7977.0,09/08/2020,Online Only,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,08/29/2020
 2020-2021,2732460,896444,Rothsay School District 850,Public,Rothsay,MN,301.0,09/08/2020,Hybrid,Yes,Pending,Pending,Pending,Required for all staff,Required for all students,Yes,Unknown,Unknown,Yes,10/23/2020
@@ -12434,7 +12434,7 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,4200880,108067516,Propel CS-Hazelwood,Public,Pittsburgh,PA,309.0,08/24/2020,Online Only,Unknown,Unknown,Unknown,Yes,Required for all staff,Required for all students,Unknown,Unknown,Unknown,Unknown,10/20/2020
 2020-2021,4200752,108067553,Propel CS-Montour,Public,Pittsburgh,PA,640.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,4200849,108067556,Propel CS-Northside,Public,Pittsburgh,PA,450.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
-2020-2021,-1,96383138,Propel Schools,Public,Pittsburgh,PA,,08/24/2020,Unknown,Unknown,Pending,Pending,,Pending,Pending,Pending,Pending,Pending,Pending,08/21/2020
+2020-2021,-1,96383138,Propel Schools,Public,Pittsburgh,PA,,08/24/2020,Unknown,Unknown,Pending,Pending,nan,Pending,Pending,Pending,Pending,Pending,Pending,08/21/2020
 2020-2021,4224570,901325,Upper St Clair Township School District,Public,Pittsburgh,PA,4074.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,4226370,901346,Wilkinsburg School District,Public,Pittsburgh,PA,616.0,08/31/2020,Online Only,No,Unknown,Unknown,Yes,Required for all staff,Pending,Unknown,Yes,Unknown,No,10/30/2020
 2020-2021,-1,104288875,Young Scholars Wstrn PA Chrtr Schl Dist,Public,Pittsburgh,PA,281.0,08/31/2020,Online Only,No,Unknown,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Yes,10/15/2020
