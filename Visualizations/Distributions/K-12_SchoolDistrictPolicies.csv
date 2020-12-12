@@ -634,7 +634,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,406580,890466,Blue Ridge Unified School District 32,Public,Lakeside,AZ,2508.0,08/10/2020,Unknown,No,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,08/25/2020
 2020-2021,400429,46927387,Country Gardens Charter School District,Public,Laveen,AZ,450.0,08/03/2020,Online Only,No,No,No,No,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,10/29/2020
 2020-2021,-1,96925558,Gila Crossing Community School District,Public,Laveen,AZ,500.0,08/03/2020,Online Only,No,Yes,Yes,Yes,Required for all staff,Unknown,Yes,Unknown,Never closed,No,10/28/2020
-2020-2021,400926,107614780,Heritage Academy Laveen Inc,,Laveen,AZ,485.0,08/05/2020,Hybrid,Yes,No,Yes,Yes,Required for all staff,Required for all students,Yes,Yes,Unknown,Yes,10/30/2020
 2020-2021,404290,890562,Laveen Elementary School District 59,Public,Laveen,AZ,6875.0,08/03/2020,Online Only,Yes,Yes,Unknown,Yes,Required for all staff,Required for all students,Unknown,Yes,Unknown,No,10/28/2020
 2020-2021,400871,107614296,Legacy Traditional School-Laveen Village,Public,Laveen,AZ,1200.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,400786,107545150,West Valley Arts and Technology Acdmy In,Public,Laveen,AZ,300.0,09/14/2020,Hybrid,No,Unknown,No,Yes,Required for all staff,Required for all students,Unknown,Yes,Never closed,Yes,09/29/2020
@@ -658,7 +657,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,400827,107607713,Arizona Education Solutions,Public,Mesa,AZ,190.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,400859,107614158,ASU Preparatory Academy,Public,Mesa,AZ,290.0,08/19/2020,Online Only,Yes,Unknown,Unknown,Yes,Required for all staff,Required for all students,Yes,Yes,Unknown,Yes,10/26/2020
 2020-2021,400884,107614419,ASU Preparatory Academy,Public,Mesa,AZ,300.0,08/17/2020,Hybrid,Unknown,Unknown,Unknown,Yes,Required for all staff,Required for all students,Yes,Yes,Unknown,Unknown,10/22/2020
-2020-2021,400857,107614126,ASU Preparatory Academy,,Mesa,AZ,370.0,08/20/2020,Hybrid,Yes,Pending,Pending,Pending,Required for all staff,Required for all students,Yes,Yes,Unknown,Yes,10/26/2020
 2020-2021,400182,107527541,Cambridge Academy East Inc,Public,Mesa,AZ,525.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,400751,94989388,Concordia Charter School Inc,Public,Mesa,AZ,115.0,09/14/2020,On Premises,Unknown,Yes,Unknown,Yes,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,10/21/2020
 2020-2021,400912,107614813,Eagle College Prep Mesa LLC,Public,Mesa,AZ,156.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
@@ -2624,7 +2622,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,1100086,108073479,Mundo Verde Bilingual Public Chrtr Schl,Public,Washington,DC,150.0,08/31/2020,Hybrid,Yes,Unknown,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,10/26/2020
 2020-2021,1100039,108073517,Paul Public Charter School,Public,Washington,DC,1126.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,1100011,108073535,Perry Street Preparatory PCS,Public,Washington,DC,374.0,08/31/2020,Online Only,No,Yes,Yes,Yes,Required for all staff,Required for all students,Yes,Yes,Closed indefinitely,Yes,10/21/2020
-2020-2021,1100082,108073549,Richard Wright PCS Journalism-Media Arts,,Washington,DC,269.0,08/17/2020,Online Only,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,10/19/2020
 2020-2021,1100106,107983936,Rocketship DC Public Charter Schools,Public,Washington,DC,1084.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,1100020,108073714,Roots Public Charter School,Public,Washington,DC,109.0,09/08/2020,Online Only,No,No,Yes,Yes,Required for all staff,Required for all students,Unknown,Yes,Never closed,Yes,10/21/2020
 2020-2021,1100022,108073718,Seed PSC of Washington DC,Public,Washington,DC,360.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
@@ -2670,7 +2667,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,1001240,900846,Brandywine School District,Public,Wilmington,DE,11216.0,09/16/2020,Hybrid,Yes,Yes,Yes,Yes,Required for all staff,Not required,No,Unknown,Closed indefinitely,Yes,10/23/2020
 2020-2021,1000200,900847,Christina School District,Public,Wilmington,DE,15664.0,09/08/2020,Hybrid,Yes,Unknown,Unknown,Yes,Required for all staff,Not required,Unknown,Yes,Closed indefinitely,Yes,10/23/2020
 2020-2021,1000006,108180992,East Side Charter School,Public,Wilmington,DE,480.0,08/31/2020,Online Only,Unknown,Pending,Pending,Yes,Pending,Pending,Pending,Pending,Never closed,Yes,10/22/2020
-2020-2021,1000054,108181281,First State Montessori Academy,,Wilmington,DE,600.0,10/05/2020,Online Only,No,Unknown,Unknown,Unknown,Required for all staff,Required for all students,Unknown,Yes,Unknown,Yes,10/13/2020
 2020-2021,1000059,108181304,Freire Charter School Wilmington,Public,Wilmington,DE,580.0,08/24/2020,Online Only,Pending,Pending,Unknown,Unknown,Pending,Pending,Pending,Pending,Never closed,No,10/29/2020
 2020-2021,1000052,108181240,Gateway Lab School,Public,Wilmington,DE,226.0,10/05/2020,Online Only,Unknown,Unknown,Unknown,Yes,Required for all staff,Required for all students,Yes,Yes,Unknown,Yes,10/28/2020
 2020-2021,1000062,108191320,Great Oaks Charter School,Public,Wilmington,DE,446.0,09/08/2020,Online Only,Unknown,Yes,Yes,Yes,Pending,Required for all students,Unknown,Unknown,Unknown,Unknown,10/15/2020
@@ -2709,7 +2705,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,1200300,900117,School District of Clay County,Public,Green Cove Springs,FL,40892.0,08/25/2020,Hybrid,Yes,Yes,Unknown,Unknown,Unknown,Pending,Pending,Pending,Pending,Yes,10/23/2020
 2020-2021,-1,900024,School Dist of Palm Beach Cnty-Central,Public,Greenacres,FL,56691.0,08/31/2020,Unknown,Yes,Pending,Pending,Pending,Required for all staff,Required for all students,Yes,Yes,Closed 1-5 days,Unknown,10/27/2020
 2020-2021,-1,900046,Miami-Dade Co Pub Schls-North Regl Ofc,Public,Hialeah,FL,108478.0,08/31/2020,Online Only,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,10/16/2020
-2020-2021,-1,104565772,Rcma Charter Schools,Private,Immokalee,FL,,08/31/2020,Hybrid,Yes,Yes,Unknown,Yes,Pending,Pending,Pending,Pending,Pending,Pending,08/13/2020
 2020-2021,1200270,899991,Citrus County School District,Public,Inverness,FL,16291.0,08/28/2020,Hybrid,Yes,Yes,Yes,No,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,10/16/2020
 2020-2021,1200480,900099,Duval County Public Schools,Public,Jacksonville,FL,129322.0,08/20/2020,Hybrid,Yes,Pending,Pending,Pending,Required for all staff,Required for all students,Yes,Yes,Closed 1-5 days,Unknown,10/27/2020
 2020-2021,-1,63574880,Pace Center For Girls Inc,Public,Jacksonville,FL,1112.0,08/31/2020,Hybrid,Unknown,Yes,Yes,Yes,Required for all staff,Required for all students,Yes,Unknown,Closed 6-14 days,Yes,09/24/2020
@@ -3489,7 +3484,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,1603400,890742,West Jefferson District 253,Public,Terreton,ID,656.0,08/19/2020,Hybrid,Yes,Yes,No,Yes,Required for all staff,Required for all students,Unknown,Unknown,Never closed,Yes,10/30/2020
 2020-2021,1600009,22533892,Troy School District 287,Public,Troy,ID,253.0,08/26/2020,On Premises,Yes,Unknown,Yes,Yes,Not required,Not required,Yes,Yes,Never closed,Yes,10/14/2020
 2020-2021,1603240,890776,Twin Falls School District 411,Public,Twin Falls,ID,9562.0,08/19/2020,Hybrid,Unknown,Unknown,Unknown,Unknown,Required for all staff,Required for all students,Yes,Unknown,Never closed,Unknown,10/29/2020
-2020-2021,1600140,108260904,Xavier Charter School Inc,,Twin Falls,ID,710.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,1603330,890683,Weiser School District 431,Public,Weiser,ID,1656.0,09/28/2020,Hybrid,Yes,Pending,Pending,Pending,Not required,Not required,Yes,Unknown,Never closed,Yes,10/05/2020
 2020-2021,1603360,890730,Wendell School District 232,Public,Wendell,ID,1168.0,08/24/2020,On Premises,Yes,No,Yes,Unknown,Not required,Not required,Unknown,Yes,Never closed,Yes,10/20/2020
 2020-2021,1603480,890684,Wilder School District 133,Public,Wilder,ID,490.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
@@ -4083,7 +4077,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,1731200,895115,Pennoyer School District 79,Public,Norridge,IL,430.0,08/24/2020,Hybrid,Yes,Unknown,Unknown,Yes,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,10/30/2020
 2020-2021,1733720,895141,Ridgewood Community High Schl Dist 234,Public,Norridge,IL,866.0,08/25/2020,Hybrid,No,Unknown,Unknown,Unknown,Required for all staff,Required for all students,Yes,Yes,Closed indefinitely,Pending,09/18/2020
 2020-2021,1700004,894521,Norris City-Omaha-Enfield School Dist 3,Public,Norris City,IL,732.0,08/20/2020,On Premises,Unknown,Yes,Yes,Yes,Required for all staff,Not required,Yes,Yes,Never closed,Unknown,10/19/2020
-2020-2021,-1,104284906,The Menta Group,Private,North Aurora,IL,74.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,1700110,895401,North Chicago Cmnty Unit School Dist 187,Public,North Chicago,IL,3046.0,08/20/2020,Online Only,Unknown,Yes,Yes,Yes,Pending,Pending,Pending,Pending,Pending,Pending,08/07/2020
 2020-2021,1721420,895153,Komarek School District 94,Public,North Riverside,IL,500.0,08/19/2020,Online Only,Unknown,Unknown,Yes,Yes,Required for all staff,Required for all students,Unknown,Yes,Never closed,Yes,10/30/2020
 2020-2021,1717850,895431,Northbrook School District 27,Public,Northbrook,IL,1230.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
@@ -6627,7 +6620,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,2633420,898119,Swartz Creek Community Schools District,Public,Swartz Creek,MI,3933.0,09/08/2020,Hybrid,Yes,Yes,Unknown,Unknown,Required for all staff,Required for middle/high school students only,Yes,Yes,Never closed,Yes,10/07/2020
 2020-2021,2601034,108228075,Alternative Educl Academy of Iosco Cnty,Public,Tawas City,MI,165.0,08/31/2020,Online Only,Unknown,Yes,Yes,Yes,Unknown,Required for high school students only,Unknown,Unknown,Unknown,Yes,10/29/2020
 2020-2021,2633510,898026,Tawas Area School District,Public,Tawas City,MI,1243.0,08/31/2020,Online Only,Yes,Yes,Unknown,No,Required for all staff,Required for all students,Unknown,Yes,Closed indefinitely,Yes,10/15/2020
-2020-2021,2600965,108166292,Quest Charter Academy,,Taylor,MI,709.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,2600331,108167543,Taylor Exemplar Academy,Public,Taylor,MI,789.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,2601061,108237694,Taylor Preparatory High School,Public,Taylor,MI,400.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,2633540,898193,Taylor School District,Public,Taylor,MI,6778.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
@@ -10261,7 +10253,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,3620640,901492,Newark Central School District,Public,Newark,NY,2191.0,09/08/2020,Other,Unknown,Unknown,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,09/17/2020
 2020-2021,3620670,901609,Newark Valley Central Schools,Public,Newark Valley,NY,1245.0,09/14/2020,Hybrid,No,Unknown,Yes,Yes,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,10/15/2020
 2020-2021,3620700,901854,Newburgh Enlarged City School District,Public,Newburgh,NY,9146.0,09/08/2020,Hybrid,Yes,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Yes,10/27/2020
-2020-2021,-1,99446381,The Arc of Orange County,Private,Newburgh,NY,346.0,09/14/2020,Hybrid,Unknown,Yes,Yes,Yes,Required for all staff,Required for all students,Yes,Unknown,Never closed,Yes,10/28/2020
 2020-2021,3620730,901799,Newcomb Central School District,Public,Newcomb,NY,100.0,09/01/2020,Hybrid,No,Unknown,Unknown,Yes,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,10/13/2020
 2020-2021,3620760,901559,Newfane Central Schools,Public,Newfane,NY,1686.0,09/10/2020,Other,Yes,Unknown,Unknown,Yes,Required for all staff,Required for all students,Unknown,Yes,Never closed,Yes,09/30/2020
 2020-2021,3620790,901408,Newfield Central School District,Public,Newfield,NY,850.0,09/10/2020,Hybrid,No,Unknown,No,No,Pending,Pending,Pending,Pending,Pending,Pending,08/25/2020
@@ -10696,7 +10687,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,3900508,108073195,Constellation Schls-Old Brooklyn Cmnty,Public,Cleveland,OH,268.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,3900211,108073211,Constellation Schls-Puritas Cmnty Elem,Public,Cleveland,OH,200.0,09/01/2020,Online Only,Unknown,Unknown,Unknown,Unknown,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,10/21/2020
 2020-2021,3900291,108073219,Constellation Schls-Puritas Cmnty Middle,Public,Cleveland,OH,175.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
-2020-2021,3901403,108073230,Constellation Schls-Stockyard Cmnty Mid,Private,Cleveland,OH,88.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,3900212,108073223,Constellation Schls-Stockyard Elementary,Public,Cleveland,OH,300.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,3900105,108073239,Constellation Schls-Westpark Cmnty Elem,Public,Cleveland,OH,303.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,3900503,108073245,Constellation Schls-Westpark Cmnty Mid,Public,Cleveland,OH,205.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
@@ -10791,7 +10781,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,3905062,899232,Edon-Northwest Local School District,Public,Edon,OH,529.0,08/19/2020,On Premises,Yes,Yes,No,No,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,10/29/2020
 2020-2021,3904577,898670,Elida Local School District,Public,Elida,OH,2560.0,11/08/2020,Hybrid,Yes,Unknown,Unknown,Yes,Required for all staff,Required for all students,Yes,Yes,Closed indefinitely,Yes,10/06/2020
 2020-2021,3904957,899255,Woodmore Local School District,Public,Elmore,OH,1090.0,09/01/2020,Hybrid,Yes,No,No,No,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,10/15/2020
-2020-2021,3900103,108073161,Constellation Schools-Elyria Community,Private,Elyria,OH,495.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,3904394,899154,Elyria City School District,Public,Elyria,OH,6964.0,09/14/2020,Hybrid,Yes,Yes,Yes,Yes,Required for all staff,Required for all students,Unknown,Unknown,Unknown,Yes,10/29/2020
 2020-2021,3905128,898791,Miami Vly Career Techlgy Ctr Board of Ed,Public,Englewood,OH,1960.0,08/13/2020,Hybrid,No,No,Yes,Yes,Pending,Pending,Pending,Pending,Pending,Pending,08/18/2020
 2020-2021,3904872,898795,Northmont City School District,Public,Englewood,OH,5029.0,09/01/2020,Online Only,Yes,Unknown,Unknown,Unknown,Pending,Required for all students,Unknown,Unknown,Closed indefinitely,Yes,09/09/2020
@@ -11879,7 +11868,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,4102040,889085,Bethel School District 52,Public,Eugene,OR,5757.0,09/14/2020,Online Only,No,Yes,Unknown,Unknown,Required for all staff,Unknown,Unknown,Yes,Closed 1-5 days,Yes,09/02/2020
 2020-2021,4103780,889087,Crow-Applegate-Lorane School District 66,Public,Eugene,OR,275.0,09/22/2020,Unknown,Unknown,Unknown,Yes,Yes,Required for all staff,Required for all students,Yes,Yes,Unknown,Unknown,10/15/2020
 2020-2021,4104740,889086,Eugene School District 4j,Public,Eugene,OR,18504.0,09/08/2020,Hybrid,Unknown,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Yes,10/23/2020
-2020-2021,-1,103373916,Looking Glass Administration Ofc,Private,Eugene,OR,73.0,09/21/2020,Online Only,Unknown,Unknown,Yes,Yes,Required for all staff,Required for all students,Yes,Yes,Closed indefinitely,Yes,10/07/2020
 2020-2021,4110520,889193,Reynolds School District 7,Public,Fairview,OR,11481.0,09/23/2020,Hybrid,Unknown,Yes,Yes,Yes,Required for all staff,Required for all students,Yes,Unknown,Never closed,Unknown,10/28/2020
 2020-2021,4100003,889101,Falls City School District 57,Public,Falls City,OR,213.0,09/14/2020,Online Only,No,Yes,No,Yes,Required for all staff,Required for all students,Yes,Yes,Unknown,No,10/23/2020
 2020-2021,4105020,889021,Fields Elementary School District 33,Public,Fields,OR,15.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
@@ -11962,7 +11950,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,4102800,889122,Centennial School District 28J,Public,Portland,OR,6156.0,09/22/2020,Online Only,Unknown,Yes,Unknown,Yes,Required for all staff,Not required,Unknown,Unknown,Closed indefinitely,Unknown,10/30/2020
 2020-2021,4103940,889121,David Douglas School District 40,Public,Portland,OR,10471.0,09/21/2020,Online Only,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,Unknown,Never closed,Unknown,10/28/2020
 2020-2021,4109480,889117,Parkrose School District 3,Public,Portland,OR,3282.0,09/18/2020,Hybrid,Yes,Unknown,Yes,Yes,Required for all staff,Unknown,Unknown,Yes,Never closed,Yes,10/15/2020
-2020-2021,-1,104476627,Portland OIC Main Office,Private,Portland,OR,600.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,4110040,889144,Portland Public Schools,Public,Portland,OR,49029.0,09/08/2020,Hybrid,Yes,Yes,Yes,Yes,Pending,Pending,Pending,Pending,Pending,No,10/26/2020
 2020-2021,4110560,889116,Riverdale School District 51J,Public,Portland,OR,679.0,09/08/2020,Online Only,No,Unknown,No,Yes,Required for all staff,Unknown,Unknown,Yes,Never closed,Unknown,10/13/2020
 2020-2021,4110080,889055,Powers School District 31,Public,Powers,OR,122.0,09/09/2020,On Premises,Yes,No,No,Yes,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,10/22/2020
@@ -12200,7 +12187,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,4205400,901104,Central Dauphin School District,Public,Harrisburg,PA,11543.0,08/24/2020,Online Only,No,Unknown,Yes,Yes,Required for all staff,Required for all students,Unknown,Unknown,Never closed,Unknown,10/26/2020
 2020-2021,-1,98128015,Commonwealth Charter Academies,Public,Harrisburg,PA,10800.0,09/08/2020,Online Only,Yes,No,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,08/28/2020
 2020-2021,4211580,901102,Harrisburg School District,Public,Harrisburg,PA,7630.0,08/31/2020,Online Only,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,08/29/2020
-2020-2021,4200887,108181555,Reach Cyber Charter School,,Harrisburg,PA,2900.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,4223010,901103,Susquehanna Township School District,Public,Harrisburg,PA,2937.0,09/08/2020,Hybrid,Yes,Unknown,Yes,Yes,Required for all staff,Required for all students,Unknown,Unknown,Never closed,Yes,10/13/2020
 2020-2021,4218660,901297,Penn-Trafford School District,Public,Harrison City,PA,3955.0,08/27/2020,Hybrid,Yes,No,No,Yes,Pending,Pending,Pending,Pending,Pending,Pending,08/29/2020
 2020-2021,4211670,900909,School District of Haverford Township,Public,Havertown,PA,5884.0,08/31/2020,Online Only,Yes,Unknown,Unknown,Unknown,Required for all staff,Unknown,Unknown,Unknown,Never closed,No,10/22/2020
@@ -14445,7 +14431,6 @@ SchoolYear,DistrictNCES,DistrictID,DistrictName,Control,PhysicalCity,PhysicalSta
 2020-2021,5006810,903126,Franklin NE Su 20-Enosburg-Richford,Public,Richford,VT,1257.0,09/08/2020,Hybrid,Yes,Unknown,Unknown,Unknown,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,09/18/2020
 2020-2021,-1,106120391,Franklin NE Su 20-NTHRN Mountain Valley,Public,Richford,VT,766.0,09/08/2020,Hybrid,Yes,Unknown,Unknown,Unknown,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,09/18/2020
 2020-2021,5099920,903127,Franklin Northeast Supervisory Union 20,Public,Richford,VT,2023.0,09/08/2020,Hybrid,Yes,Unknown,Unknown,Unknown,Required for all staff,Required for all students,Yes,Yes,Never closed,Yes,09/18/2020
-2020-2021,-1,106120426,Mount Mansfield Unified Union Schl Dist,Private,Richmond,VT,2473.0,09/08/2020,Hybrid,Unknown,Yes,Yes,Yes,Pending,Pending,Pending,Pending,Pending,Pending,08/07/2020
 2020-2021,-1,103637778,Greater Rutland Cnty 066-Quarry Valley,Public,Rutland,VT,1064.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,5007080,903034,Greater Rutland Cnty Su 066-Rutland Town,Public,Rutland,VT,352.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,
 2020-2021,5000405,903061,Greater Rutland County Su 066,Public,Rutland,VT,1580.0,,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,

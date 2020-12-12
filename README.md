@@ -1,5 +1,5 @@
 # Covid19 Impact on K-12 Education
-Covid19 has affected learning and education for students around the world. This analysis investigates how Covid19 cases and demographics such as race, income, and computer/internet availability have impacted K-12th grade students across the United States through policies made by their school districts. 
+Covid19 has affected learning and education for students around the world. This analysis investigates how Covid19 cases and demographics such as race, income, and computer/internet availability have impacted K-12th grade students across the United States through policies made by their school districts. The methodology included data visualization, correlation, and logistic regression. The main findings were. 
 
 # Data Sources
 - Covid19 K-12 Education Data by MCH Strategic Data. Compiled from public federal, state, and local school districts information and media updates. Go to the [Main page](https://www.mchdata.com/covid19/schoolclosings), scroll down, make a free account, and press the "download list of districts" button. Select subscribe and sign up for free subscription to download the dataset. No credit card information is needed. [covid-data.csv](https://github.com/NalaniKai/data-512-final/tree/main/Data/Covid19_K-12_Education)
