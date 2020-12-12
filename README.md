@@ -1,5 +1,5 @@
 # Covid19 Impact on K-12 Education
-By Megan Nalani Chun
+By Megan Nalani Chun  
 Last modified December 2020
 
 ## Abstract
